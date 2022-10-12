@@ -7,3 +7,4 @@ Syntactically Awesome Stylesheet · Sass is an extension to CSS · Sass is a CSS
 - [Variables](./variables/variables.scss)
 - [nesting concept](./nesting/nesting.scss)
 - [import](./import/import.scss)
+- [extend](./extend/extend.scss)

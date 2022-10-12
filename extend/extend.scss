@@ -1,0 +1,18 @@
+.btn-add {
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-report {
+  @extend .btn-add;
+  background-color: red;
+}
+
+.btn-submit {
+  @extend .btn-add;
+  background-color: green;
+  color: white;
+}
